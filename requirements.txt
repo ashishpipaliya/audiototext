@@ -37,7 +37,7 @@ pyperclip==1.7.0
 pypi==2.1
 PyVirtualDisplay==0.2.5
 requests==2.22.0
-rsa==4.0
+rsa==4.7
 selenium==2.53.6
 six==1.14.0
 sounddevice==0.3.14
