@@ -45,5 +45,5 @@ soupsieve==1.9.5
 SpeechRecognition==3.8.1
 uiautomator==0.3.6
 uritemplate==3.0.1
-urllib3==1.25.8
+urllib3==1.26.5
 Werkzeug==0.16.1
